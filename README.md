@@ -8,3 +8,6 @@ webpage for my reference later.
 
 ## How to build it?
 // TODO
+
+## How to use it?
+// TODO
